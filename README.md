@@ -1,10 +1,9 @@
-# ambient_sounds
+### ambient_sounds
 Adds ambient sounds to Minetest Game.
-================ Code:
+## Code:
  (C) 2023, SuperStarSonic, Samuel Sargent (Pythonn-Sargent) (MIT)
  (C) 2023, Wilderness, Noah Sargent (Wilderness7272), (MIT)
-
-================
+ 
 About the mod:
 ------------------------------
 This mod adds sound to minetest
